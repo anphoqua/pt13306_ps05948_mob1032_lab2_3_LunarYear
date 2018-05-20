@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Gregorian To Lunar</string>
+    
+    <string name="hint_edt_gregorianYear">Year: </string>
+    <string name="btn_conversion">Conversion</string>
+    <string name="textView_lunarYear">In this year, the lunar year is: </string>
+
+</resources>
